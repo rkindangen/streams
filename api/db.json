@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "hello",
+      "description": "hi",
+      "id": 1
+    },
+    {
+      "title": "hello",
+      "description": "hi",
+      "id": 2
+    },
+    {
+      "title": "Food",
+      "description": "yumm",
+      "id": 3
+    },
+    {
+      "title": "hey",
+      "description": "bye",
+      "userId": "108220610822546547166",
+      "id": 4
+    },
+    {
+      "title": "hey",
+      "description": "bye",
+      "userId": "108220610822546547166",
+      "id": 5
+    },
+    {
+      "title": "hey",
+      "description": "bye",
+      "userId": "108220610822546547166",
+      "id": 6
+    }
+  ]
+}
